@@ -1,0 +1,16 @@
+{
+  "name": "tinybench",
+  "version": "0.0.1",
+  "private": false,
+  "engines": {
+    "node": ">= 0.8.14",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+    "coffee-script": ">= 1.6.2"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
